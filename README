@@ -1,0 +1,3 @@
+完成多发多收
+ndn-multi-custom.cc 为主文件
+multi-suatom-deviceface.h为重写的device文件
